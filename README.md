@@ -5,7 +5,7 @@ Bancos de preguntas tipo test (3 opciones) para preparar tres asignaturas del M�
 | Asignatura | Preguntas | Puntuación del simulacro |
 |---|---|---|
 | Aprendizaje y Desarrollo de la Personalidad | 780 | Dos fallos restan un acierto |
-| Sociedad, Familia y Educación (temas 1 a 5; el tema 4, a partir de los trabajos de clase) | 601 | Los fallos no restan |
+| Sociedad, Familia y Educación (temas 1 a 5; el tema 4, a partir de los trabajos de clase; cinco lecturas obligatorias, cada una como tema propio) | 839 | Los fallos no restan |
 | Organización y Gestión de Centros (batería de preguntas de clase, temas 1 a 5) | 274 | Los fallos no restan |
 
 **Abrir la aplicación:** https://carmenps04.github.io/test-aprendizaje-personalidad/
